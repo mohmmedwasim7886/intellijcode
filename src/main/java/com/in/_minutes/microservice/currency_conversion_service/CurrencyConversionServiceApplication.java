@@ -11,6 +11,7 @@ public class CurrencyConversionServiceApplication {
 		SpringApplication.run(CurrencyConversionServiceApplication.class, args);
 		String value="";//hello sdfg sdf  sdfg
 		String str="";
+		//code has been commited for intellij
 		/////this is comment from VSCODE
 	}
 
