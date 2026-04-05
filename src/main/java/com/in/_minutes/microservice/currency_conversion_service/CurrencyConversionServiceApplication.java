@@ -12,7 +12,7 @@ public class CurrencyConversionServiceApplication {
 		String value="";//hello sdfg sdf  sdfg
 		String str="";
 		String inttellij=""; ///intellij commit
-
+        int a=0; //new cod added in feature
 		/////this is comment from VSCODE
 	}
 
